@@ -1,6 +1,3 @@
-# PHP Web Proxy
-PHP VPN/Proxy Script
 
-Source: https://github.com/NicheOffice/php-web-proxy
 
 Godaddy Deployment at https://proxy.parveenbhadoo.com (Works almost fine)
